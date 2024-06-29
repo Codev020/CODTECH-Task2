@@ -25,24 +25,23 @@
 
 - The website will be built using HTML to define the overall structure and content. CSS will be used to style the website's visual elements like fonts, colors, and layout. JavaScript will add interactivity and dynamic functionality with also the added functionality of Node.js backend and Firebase for data storage and management.
 
-Here's a breakdown of the core functionalities:
+### Here's a breakdown of the core functionalities:
 
-Homepage: This will be the main landing page displaying recent blog posts, potentially with featured content and categories.
+- **Homepage:** This will be the main landing page displaying recent blog posts, potentially with featured content and categories.
 
-Blog Post: Each individual blog post will have its title, author, content, and comments section (optional).
+- **Blog Post:** Each individual blog post will have its title, author, content, and comments section (optional).
 
-Navigation: A navigation bar will allow users to easily access different sections of the website, like the homepage, blog archive, and potentially an "About Me" page.
+- **Navigation:** A navigation bar will allow users to easily access different sections of the website, like the homepage, blog archive, and potentially an "About Me" page.
 
-Dashboard: THrough which user can see his/her blogs in one place, and can delete, edit or view the blog.
+- **Dashboard:** THrough which user can see his/her blogs in one place, and can delete, edit or view the blog.
 
-Key Components:
+### Key Components:
 
-Front-end: Built with HTML, CSS, and JavaScript to deliver the user interface and user experience.
-
-Node.js Backend: A Node.js server will handle functionalities like:
-Fetching blog post data from Firebase.
-Managing user accounts (optional: login, registration)
-Handling form submissions
+- **Front-end:** Built with HTML, CSS, and JavaScript to deliver the user interface and user experience.
+- **Node.js Backend:** A Node.js server will handle functionalities like:
+-- Fetching blog post data from Firebase.
+-- Managing user accounts (optional: login, registration)
+-- Handling form submissions
 
 Firebase: A Firebase project will be used as the backend database for storing blog posts, user data (optional), and potentially comments.
 

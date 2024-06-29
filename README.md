@@ -39,21 +39,20 @@
 
 - **Front-end:** Built with HTML, CSS, and JavaScript to deliver the user interface and user experience.
 - **Node.js Backend:** A Node.js server will handle functionalities like:
--- Fetching blog post data from Firebase.
--- Managing user accounts (optional: login, registration)
--- Handling form submissions
+Fetching blog post data from Firebase.
+Managing user accounts (optional: login, registration)
+Handling form submissions
 
-Firebase: A Firebase project will be used as the backend database for storing blog posts, user data (optional), and potentially comments.
+- **Firebase:** A Firebase project will be used as the backend database for storing blog posts, user data (optional), and potentially comments.
+- **User Accounts:** Allow users to create accounts and submit their own blog posts.
 
-User Accounts: Allow users to create accounts and submit their own blog posts.
+### Project Development Process:
 
-Project Development Process:
-
-Planning and Design: I started first by creating the homepage using HTML and CSS files.
-Front-end Development: Build the website's user interface using HTML, CSS, and JavaScript.
-Node.js Backend Development: Set up the Node.js server with Express.js and implement logic to interact with Firebase using the Admin SDK.
-Firebase Integration: Configure Firebase services and connect the backend to the database and authentication (optional).
-Testing and Deployment:Test the website functionality thoroughly, ensuring smooth interaction between front-end and backend.
+- **Planning and Design:** I started first by creating the homepage using HTML and CSS files.
+- **Front-end Development:** Build the website's user interface using HTML, CSS, and JavaScript.
+- **Node.js Backend Development:** Set up the Node.js server with Express.js and implement logic to interact with Firebase using the Admin SDK.
+- **Firebase Integration:** Configure Firebase services and connect the backend to the database and authentication (optional).
+- **Testing and Deployment:**Test the website functionality thoroughly, ensuring smooth interaction between front-end and backend.
 Deploy the front-end to a web hosting platform.
 Deploy the Node.js backend to a platform like Heroku or a cloud provider.
 

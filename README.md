@@ -52,7 +52,7 @@ Handling form submissions
 - **Front-end Development:** Build the website's user interface using HTML, CSS, and JavaScript.
 - **Node.js Backend Development:** Set up the Node.js server with Express.js and implement logic to interact with Firebase using the Admin SDK.
 - **Firebase Integration:** Configure Firebase services and connect the backend to the database and authentication (optional).
-- **Testing and Deployment:**Test the website functionality thoroughly, ensuring smooth interaction between front-end and backend.
+- **Testing and Deployment:** Test the website functionality thoroughly, ensuring smooth interaction between front-end and backend.
 Deploy the front-end to a web hosting platform.
 Deploy the Node.js backend to a platform like Heroku or a cloud provider.
 
